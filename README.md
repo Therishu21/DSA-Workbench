@@ -1,2 +1,2 @@
 # DSA-Workbench
-A collection of DSA assignments, programs, and problem-solving exercises.
+A collection of Data Structure and Algorithms assignments, implementations, and problem-solving exercises.
